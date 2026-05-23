@@ -16,9 +16,9 @@ I build backend systems for production — APIs, microservices, and data pipelin
 
 | Project | Description |
 |---------|-------------|
-| [microservices-scaffold](https://github.com/Amine32/microservices-scaffold) | Full microservices stack — API gateway, services, Kafka, PostgreSQL |
-| [spring-boot-api-starter](https://github.com/Amine32/spring-boot-api-starter) | Production-ready REST API template with auth, migrations, Docker |
-| [kafka-event-pipeline](https://github.com/Amine32/kafka-event-pipeline) | Event-driven pipeline — Kafka, Avro, DLT, idempotent consumers |
-| [microservices-platform](https://github.com/Amine32/microservices-platform) | 11-service platform with API gateway and JWT auth |
-| [card-management-api](https://github.com/Amine32/card-management-api) | Card account management API — Spring Boot + PostgreSQL |
-| [avro-schema-registry-demo](https://github.com/Amine32/avro-schema-registry-demo) | Schema Registry multi-module demo with Avro serialization |
+| [microservices-scaffold](https://github.com/AmatouryAmine/microservices-scaffold) | Full microservices stack — API gateway, services, Kafka, PostgreSQL |
+| [spring-boot-api-starter](https://github.com/AmatouryAmine/spring-boot-api-starter) | Production-ready REST API template with auth, migrations, Docker |
+| [kafka-event-pipeline](https://github.com/AmatouryAmine/kafka-event-pipeline) | Event-driven pipeline — Kafka, Avro, DLT, idempotent consumers |
+| [microservices-platform](https://github.com/AmatouryAmine/microservices-platform) | 11-service platform with API gateway and JWT auth |
+| [card-management-api](https://github.com/AmatouryAmine/card-management-api) | Card account management API — Spring Boot + PostgreSQL |
+| [avro-schema-registry-demo](https://github.com/AmatouryAmine/avro-schema-registry-demo) | Schema Registry multi-module demo with Avro serialization |
